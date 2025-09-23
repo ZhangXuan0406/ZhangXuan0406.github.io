@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://SocratesClub.github.io/sitemap.xml
