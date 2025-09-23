@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Cheng-Jun Wang",
+    "label": "",
+    "image": "",
+    "email": "wangchengjun@nju.edu.cn",
+    "phone": "",
+    "url": "https://socratesclub.github.io/",
+    "summary": "",
+    "location": {
+      "address": "163 Xianlin Street",
+      "postalCode": "210023",
+      "city": "Nanjing",
+      "countryCode": "CN",
+      "region": "Jiangsu"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "ChengJunWang",
+        "url": "https://twitter.com/ChengJunWang"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "School of Journalism and Communication, Nanjing University",
+      "position": "Associate Professor",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "Now",
+      "summary": "",
+      "highlights": [
+        "Computational Communication"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "City University of Hong Kong, Hong Kong, China",
+      "url": "",
+      "area": "Media and Communication",
+      "studyType": "PhD",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "",
+      "courses": [
+        "Information Diffusion"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
