@@ -1,6 +1,6 @@
 ---
-layout: about
-title: About
+layout: 基本情况
+title: 基本情况
 permalink: /
 subtitle: 
 profile:
