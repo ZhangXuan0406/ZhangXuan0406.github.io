@@ -1,12 +1,12 @@
-- title: General Information
+- title: 基本信息
   type: map
   contents:
-    - name: Full Name
-      value: Cheng-Jun Wang
-    - name: Date of Birth
-      value: 26th May 1885
-    - name: Languages
-      value: English, Chinese
+    - name: 姓名
+      value: 张萱
+    - name: 出生日期
+      value: 2003年4月6日
+    - name: 语言能力
+      value: 中文，英文
 
 - title: Education
   type: time_table
