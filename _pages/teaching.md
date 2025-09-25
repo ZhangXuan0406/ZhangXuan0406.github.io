@@ -10,8 +10,21 @@ nav_order: 5
 ## 摄影摄像
 
 我热爱摄影，尤其专注于人像摄影。通过镜头捕捉人物的情感与故事，是我表达创意和记录生活的方式。我喜欢在自然光线下拍摄，追求真实而富有情感的画面。
-
-- 
+<!-- 摄影作品展示 - 强制一行四个 -->
+<div class="flex overflow-x-auto pb-4 my-6 gap-4">
+  <div class="flex-shrink-0 w-1/4">
+    <img src="/assets/img/pic1.jpg" alt="人像摄影作品示例1" class="w-full h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+  </div>
+  <div class="flex-shrink-0 w-1/4">
+    <img src="/assets/img/pic2.jpg" alt="人像摄影作品示例2" class="w-full h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+  </div>
+  <div class="flex-shrink-0 w-1/4">
+    <img src="/assets/img/pic3.jpg" alt="人像摄影作品示例3" class="w-full h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+  </div>
+  <div class="flex-shrink-0 w-1/4">
+    <img src="/assets/img/pic4.jpg" alt="人像摄影作品示例4" class="w-full h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+  </div>
+</div>
 
 
 
