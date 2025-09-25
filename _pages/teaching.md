@@ -13,16 +13,16 @@ nav_order: 5
 <!-- 摄影作品展示 - 一行四个，尺寸固定为600x800像素 -->
 <div class="flex overflow-x-auto pb-4 my-6 gap-4">
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic1.jpg" alt="人像摄影作品示例1" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic1.jpg" alt="人像摄影作品1" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic2.jpg" alt="人像摄影作品示例2" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic2.jpg" alt="人像摄影作品2" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic3.jpg" alt="人像摄影作品示例3" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic3.jpg" alt="人像摄影作品3" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic4.jpg" alt="人像摄影作品示例4" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic4.jpg" alt="人像摄影作品4" width="600" height="800" class="rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
 </div>
 
