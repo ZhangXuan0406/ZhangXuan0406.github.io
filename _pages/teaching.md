@@ -33,25 +33,25 @@ nav_order: 5
 
 我运营着自己的社交媒体账号，以下是我的一些短视频作品，点击可以查看完整内容。
 <!-- 视频封面展示 - 一行四个，点击跳转 -->
-<div class="flex justify-center items-center my-6">
-  <div class="flex w-full max-w-6xl">
-    <a href="http://xhslink.com/o/5fqy2YYdu9a" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[200px] mx-2">
-      <div class="aspect-video overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
+<div class="flex justify-center my-6">
+  <div class="flex space-x-4 w-full max-w-6xl">
+    <a href="https://xhslink.com/o/5fqy2YYdu9a" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
         <img src="/assets/img/fm1.jpg" alt="视频作品封面1" class="w-full h-full object-cover">
       </div>
     </a>
-    <a href="http://xhslink.com/o/46XITpmDnR8" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[200px] mx-2">
-      <div class="aspect-video overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
+    <a href="https://xhslink.com/o/46XITpmDnR8" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
         <img src="/assets/img/fm2.jpg" alt="视频作品封面2" class="w-full h-full object-cover">
       </div>
     </a>
-    <a href="http://xhslink.com/o/4RaLEIy90Bz" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[200px] mx-2">
-      <div class="aspect-video overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
+    <a href="https://xhslink.com/o/4RaLEIy90Bz" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
         <img src="/assets/img/fm3.jpg" alt="视频作品封面3" class="w-full h-full object-cover">
       </div>
     </a>
-    <a href="http://xhslink.com/o/A0Tvgjb9Yhq" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[200px] mx-2">
-      <div class="aspect-video overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
+    <a href="https://xhslink.com/o/A0Tvgjb9Yhq" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
         <img src="/assets/img/fm4.jpg" alt="视频作品封面4" class="w-full h-full object-cover">
       </div>
     </a>
