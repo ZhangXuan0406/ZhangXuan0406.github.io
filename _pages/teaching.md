@@ -13,16 +13,16 @@ nav_order: 5
 <!-- 摄影作品展示 - 强制一行四个 -->
 <div class="flex overflow-x-auto pb-4 my-6 gap-4">
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic1.jpg" alt="人像摄影作品示例1" class="w-1/4 h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic1.jpg" alt="人像摄影作品示例1" class="w-300 h-400 object-cover rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic2.jpg" alt="人像摄影作品示例2" class="w-1/4 h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic2.jpg" alt="人像摄影作品示例2" class="w-300 h-400 object-cover rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic3.jpg" alt="人像摄影作品示例3" class="w-1/4 h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic3.jpg" alt="人像摄影作品示例3" class="w-300 h-400 object-cover rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
   <div class="flex-shrink-0 w-1/4">
-    <img src="/assets/img/pic4.jpg" alt="人像摄影作品示例4" class="w-1/4 h-auto object-cover rounded shadow-md hover:opacity-90 transition-opacity">
+    <img src="/assets/img/pic4.jpg" alt="人像摄影作品示例4" class="w-300 h-400 object-cover rounded shadow-md hover:opacity-90 transition-opacity">
   </div>
 </div>
 
@@ -37,7 +37,9 @@ nav_order: 5
 ## 新闻撰稿
 
 写作是我表达思想和情感的重要方式。无论是技术文章、生活随笔还是创意故事，我都享受用文字构建世界的过程。以下是我写过的一些稿件标题。
-
+- [《世界睡眠日|“熬夜成习惯”，你的睡眠还好吗？》](https://mp.weixin.qq.com/s/ANn4S71A4o91YaFugx02LA))
+- [《奇遇|《情书》里藏着的29张纸条都写些什么？》](https://mp.weixin.qq.com/s/d4__5eFMcwiQsR9YCLKJCg)
+- [《数据｜你在南京看的秦淮彩灯，原来是四川自贡供应》](https://mp.weixin.qq.com/s/L_7H3d5oiZxPvxsXNOJrdA)
 
 
 <br>
