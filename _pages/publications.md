@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: Publication
-description: The only thing that I know is I know nothing!
+permalink: /技能证书/
+title: 技能证书
+description: 
 nav: true
 nav_order: 1
 ---
