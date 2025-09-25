@@ -2,7 +2,7 @@
 layout: page
 permalink: /兴趣爱好/
 title: 兴趣爱好
-description: 走近我，了解我。 
+description: 世界因为探索而精彩✨ 
 nav: true
 nav_order: 2
 ---
