@@ -4,7 +4,7 @@ permalink: /兴趣爱好/
 title: 兴趣爱好
 description: 走近我，了解我。 
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 ## 摄影摄像
