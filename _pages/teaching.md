@@ -32,31 +32,37 @@ nav_order: 2
 ## 视频剪辑
 
 我运营着自己的社交媒体账号，以下是我的一些短视频作品，点击可以查看完整内容。
-<!-- 视频封面展示 - 一行四个，点击跳转 -->
-<div class="flex justify-center my-6">
-  <div class="flex space-x-4 w-full max-w-6xl">
-    <a href="https://xhslink.com/o/5fqy2YYdu9a" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
-      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
-        <img src="/assets/img/fm1.jpg" alt="视频作品封面1" width="150" height="250" class="object-cover">
-      </div>
-    </a>
-    <a href="https://xhslink.com/o/46XITpmDnR8" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
-      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
-        <img src="/assets/img/fm2.jpg" alt="视频作品封面2" width="150" height="250" class="object-cover">
-      </div>
-    </a>
-    <a href="https://xhslink.com/o/4RaLEIy90Bz" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
-      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
-        <img src="/assets/img/fm3.jpg" alt="视频作品封面3" width="150" height="250" class="object-cover">
-      </div>
-    </a>
-    <a href="https://xhslink.com/o/A0Tvgjb9Yhq" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
-      <div class="w-[150px] h-[200px] overflow-hidden rounded shadow-md hover:shadow-lg transition-shadow">
-        <img src="/assets/img/fm4.jpg" alt="视频作品封面4" width="150" height="250" class="object-cover">
-      </div>
-    </a>
-  </div>
-</div>
+<table class="image-table" style="width:100%; border-collapse: separate; border-spacing: 10px; margin: 1.5rem 0;">
+  <tr>
+    <!-- 图片1 -->
+    <td style="width:25%; padding:0; vertical-align: top;">
+      <a href="https://xhslink.com/o/5fqy2YYdu9a" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/img/fm1.jpg" alt="视频作品封面1" style="width:100%; max-width:150px; height:auto; object-cover; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      </a>
+    </td>
+    
+    <!-- 图片2 -->
+    <td style="width:25%; padding:0; vertical-align: top;">
+      <a href="https://xhslink.com/o/46XITpmDnR8" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/img/fm2.jpg" alt="视频作品封面2" style="width:100%; max-width:150px; height:auto; object-cover; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      </a>
+    </td>
+    
+    <!-- 图片3 -->
+    <td style="width:25%; padding:0; vertical-align: top;">
+      <a href="https://xhslink.com/o/4RaLEIy90Bz" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/img/fm3.jpg" alt="视频作品封面3" style="width:100%; max-width:150px; height:auto; object-cover; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      </a>
+    </td>
+    
+    <!-- 图片4 -->
+    <td style="width:25%; padding:0; vertical-align: top;">
+      <a href="https://xhslink.com/o/A0Tvgjb9Yhq" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/img/fm4.jpg" alt="视频作品封面4" style="width:100%; max-width:150px; height:auto; object-cover; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
