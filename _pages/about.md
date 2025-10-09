@@ -1,1 +1,49 @@
+---
+layout: about
+title: 张萱
+permalink: /中文/
+subtitle: 
+profile:
+  align: right
+  image: profile.jpeg
+  image_circular: true # crops the image to make it circular
+  address:
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+cv_pdf: 
+nav: true
+nav_order: 1
+---
 
+
+<h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
+
+
+## 个人信息
+- 出生年月: 2003.4
+- 地址：中国江苏省南京市
+- 邮箱：zxuan0406 at 163.com
+- 电话：18994725603
+
+## 教育经历
+- 2021/09-2025/06，南京大学，新闻传播学院，学士
+- 2025/09-现在，南京大学，新闻传播学院，硕士在读
+
+## 实习经历
+- 2024/07-2024/09 SMG上海广播电视台商业创新中心 运营部实习生
+工作内容：参与完成SMG商业创新中心微信视频号短视频剪辑工作，完成了《一路前行》项目招商视频、上海光影节中信泰富宣传视频的剪辑制作；完成活动项目PPT制作的及海报设计工作，完成了光影节小程序kv、中信泰富24周年邀请函等设计工作；参与线下活动现场执行、现场拍摄，嘉宾跟拍，负责现场道具布置和嘉宾沟通等工作；协助参与项目策划、创意及文案撰写工作。
+- 2024/05-2024/06 得物App 鞋类商家运营实习生
+工作内容：负责达人沟通，达人教育，在社群及时宣发活动和进行社群管理等工作；负责活动运营，引导社群达人参与发布活动，打造符合得物App的特色线上活动；负责活动后期数据分析，用SQL进行基础的数据分析能力，掌握基础的Excel处理技能。
+
+## 校园经历
+- 2022/11-2023/11 南大新传团学联 宣传部副部长
+工作内容：负责管理运营团学联微信公众号，审核日常推送内容的文编美编；负责平面设计，参与2022秋季校运会院服的设计和院内会议的海报制作等；负责南大新传各大活动的现场拍摄和视频的策划、拍摄和后期剪辑工作。
+- 2022/09-2023/09 中青校媒（江苏）视频号运营中心部长
+工作内容：负责苏媒视频号“青团子baobao”的一体化生产运营；负责联系各大高校媒体，稳定视频号供稿来源；负责数据监测，定期维护与反馈，根据数据调整视频方向。
+
+
+<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/%E4%B8%AD%E6%96%87.md">
+  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
+</a>
