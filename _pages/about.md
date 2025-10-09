@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 张萱
-permalink: /中文/
+permalink: 
 subtitle: 
 profile:
   align: right
