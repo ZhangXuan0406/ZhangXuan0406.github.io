@@ -11,8 +11,9 @@ profile:
 nav: true
 nav_order: 1
 ---
-
-
+<style>
+  .page-heading { display: none; }  /* 隐藏第一个重复的标题 */
+</style>
 
 - 出生年月: 2003.4
 - 地址：中国江苏省南京市
