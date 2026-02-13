@@ -11,21 +11,6 @@ profile:
 nav: true
 nav_order: 1
 ---
-<style>
-  /* 覆盖Al-folio主题所有可能的标题类名 */
-  .about-header h1, 
-  .profile-title, 
-  .page-title, 
-  .site-title,
-  h1:first-of-type {
-    display: none !important;  /* !important 强制生效 */
-  }
-  /* 手动添加一个唯一的标题（可选，确保标题样式统一） */
-  .custom-title {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 20px;
-  }
 </style>
 
 <!-- 手动加一个唯一的标题（替代被隐藏的重复标题） -->
