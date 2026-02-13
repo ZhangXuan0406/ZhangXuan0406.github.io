@@ -9,9 +9,10 @@ profile:
   image_circular: true # crops the image to make it circular
   address:
 nav: true
+nav_order：1
 ---
 
-
+## 基本信息
 - 出生年月: 2003.4
 - 地址：中国江苏省南京市
 - 邮箱：zxuan0406 at 163.com
