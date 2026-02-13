@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 张萱
-permalink: /about/
+permalink: /
 subtitle: 
 profile:
   align: right
@@ -18,7 +18,7 @@ nav_order: 1
 ---
 
 
-<h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
+<h1 class="post-title">{{ page.title }}{% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
 
 
 ## 个人信息
@@ -32,6 +32,8 @@ nav_order: 1
 - 2025/09-现在，南京大学，新闻传播学院，硕士在读
 
 ## 实习经历
+- 2026/01-2026/03 江苏广电AI荔枝 视频新闻部实习生
+工作内容：参与AI荔枝客户端马年新春系列活动的前期设计、宣传文案撰写和视频剪辑；参与视频号“苏小游的旅行日记”的日常脚本设计，运用生成式AI进行画面生成和视频剪辑；参与江苏卫视2026春晚的现场录制、明星ID撰写和视频剪辑等工作。
 - 2024/07-2024/09 SMG上海广播电视台商业创新中心 运营部实习生
 工作内容：参与完成SMG商业创新中心微信视频号短视频剪辑工作，完成了《一路前行》项目招商视频、上海光影节中信泰富宣传视频的剪辑制作；完成活动项目PPT制作的及海报设计工作，完成了光影节小程序kv、中信泰富24周年邀请函等设计工作；参与线下活动现场执行、现场拍摄，嘉宾跟拍，负责现场道具布置和嘉宾沟通等工作；协助参与项目策划、创意及文案撰写工作。
 - 2024/05-2024/06 得物App 鞋类商家运营实习生
