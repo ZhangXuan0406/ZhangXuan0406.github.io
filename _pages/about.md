@@ -9,7 +9,8 @@ profile:
   image_circular: true # crops the image to make it circular
   address:
 nav: true
-nav_order：1
+nav_order: 1
+---
 ---
 
 ## 基本信息
