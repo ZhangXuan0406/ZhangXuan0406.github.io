@@ -44,6 +44,4 @@ nav_order: 1
 工作内容：负责苏媒视频号“青团子baobao”的一体化生产运营；负责联系各大高校媒体，稳定视频号供稿来源；负责数据监测，定期维护与反馈，根据数据调整视频方向。
 
 
-<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/%E4%B8%AD%E6%96%87.md">
-  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
-</a>
+
