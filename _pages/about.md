@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 张萱
+title: 张萱about
 permalink: /
 subtitle: 
 profile:
