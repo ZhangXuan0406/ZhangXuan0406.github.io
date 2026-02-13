@@ -18,10 +18,7 @@ nav_order: 1
 ---
 
 
-<h1 class="post-title">{{ page.title }}{% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
 
-
-## 个人信息
 - 出生年月: 2003.4
 - 地址：中国江苏省南京市
 - 邮箱：zxuan0406 at 163.com
