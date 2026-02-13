@@ -76,10 +76,5 @@ nav_order: 2
 - [《数据｜你在南京看的秦淮彩灯，原来是四川自贡供应》](https://mp.weixin.qq.com/s?__biz=Mzg3NjA2MTk0Mw==&mid=2247496238&idx=1&sn=1517c991188156469bbf459e929110af&source=41&poc_token=HPHb1GijBs11mENGWNSf_TS7eEUPNunk6M3d0QT5)
 
 
-<br>
-<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/teaching.md">
-  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
-</a>
-<br>
 
 
