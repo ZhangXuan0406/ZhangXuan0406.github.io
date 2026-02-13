@@ -9,12 +9,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address:
 nav: true
-nav_order: 1
 ---
-</style>
-
-<!-- 手动加一个唯一的标题（替代被隐藏的重复标题） -->
-<div class="custom-title">张萱</div>
 
 
 - 出生年月: 2003.4
